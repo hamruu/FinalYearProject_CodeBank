@@ -1,10 +1,19 @@
-This repository exists to hold various scripts and results written and obtained over the course of the MSci Chemistry with Computing final year project. 
-The D-NEMD setup and analysis scripts from within the group are available on request, but are not included here as they are included in a paper currently under review.
-My personal trajectory files are also available on request, as my supervisor advised me not to make them public as they may be published.
+## Repository Overview
 
-Additionally, even the smallest of my PCA files, and the majority of the salt bridge files, were too large to add to github. They are also available on request.
+This repository contains scripts and selected results generated during the MSci Chemistry with Scientific Computing final-year project.
 
+### Data and Script Availability
 
-Included in analysisnotebooks are the Jupyter notebooks used for data analysis and figure creation over the course of the project.
+- The D-NEMD setup and analysis scripts from within the research group are available upon request but are not included here, as they form the basis of a paper currently under review.
+- Trajectory files generated during this project are also available upon request. These are not made public as advised by my supervisor, as they may be published later. 
+- Several datasets, including PCA outputs and the majority of salt bridge analysis files, exceed GitHub’s file size limits and are therefore not included. These are also available upon request.
 
-Some sample commands used on bluepebble1 are included in HPC_Scripts
+### Repository Contents
+
+- **`analysisnotebooks/`**  
+  Jupyter notebooks used for data analysis and figure creation throughout the project.
+
+- **`HPC_Scripts/`**  
+  Sample commands and scripts used on the BluePebble HPC system.
+
+The other directories contain various output data, primarily from the EQ analysis section of the project.
